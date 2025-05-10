@@ -40,7 +40,7 @@ Le projet est divisé en deux modules principaux :
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/username/StegaMind.git
+git clone https://github.com/HamzaBraik01/StegaMind.git
 cd StegaMind
 
 # Installer les dépendances
